@@ -1,6 +1,6 @@
 # Client-Server Application with Logic Gates
 
-Group project
+*Group project*
 
 Group members:
 - Denis Avram: [LinkedIn](https://www.linkedin.com/in/denis-avram-39b597209/)
