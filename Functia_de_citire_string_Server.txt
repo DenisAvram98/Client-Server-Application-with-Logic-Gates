@@ -1,0 +1,9 @@
+                /*byte[] msg = new byte[1024];
+                int size = client.Receive(msg);
+                string msgReceived = System.Text.Encoding.ASCII.GetString(msg, 0, size);
+                if (msgReceived != string.Empty)
+                {
+                    Console.WriteLine(msgReceived);
+                }
+                client.Send(msg, 0, size, SocketFlags.None);
+                */
