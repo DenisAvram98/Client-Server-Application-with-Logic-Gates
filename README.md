@@ -1,14 +1,10 @@
 # Client-Server Application with Logic Gates
 
-Group project at the Politehnica University of Timisoara (Romania), Faculty of Automation and Computers
+Group project
 
 Group members:
 - Denis Avram: [LinkedIn](https://www.linkedin.com/in/denis-avram-39b597209/)
 - Mihaela Monica Szilagyi: [LinkedIn](https://www.linkedin.com/in/mihaela-monica-szilagyi-25878719a/)
-
-
-Coordinator:
-- Pal-Stefan Murvay: [Website](http://www.aut.upt.ro/~pal-stefan.murvay/)
 
 
 **Application description:**
