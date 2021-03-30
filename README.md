@@ -14,5 +14,5 @@ For running this app first you need to change the connection IP address in both 
 
     string IpAdress = "xxx.xxx.xxx.xxx";
     
-First run the Server application and then the Client application.
+First run the Server application and then the Client application.\
 This client-server application was made to run on localhost.
