@@ -1,1 +1,1 @@
-# Client-Server-Application-with-Logic-Gates
+# Client-Server Application with Logic Gates
